@@ -8,6 +8,8 @@ models/
 .chroma/
 db/
 
+source_documents/brain
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
